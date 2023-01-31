@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+<h2>Redux Toolkit Tutorial</h2>
+
+A counting app made with react redux toolkit.
+
+
+![2023-01-31 19-20-45](https://user-images.githubusercontent.com/108582184/215829728-39104df4-22c6-4149-9ea4-10375bc5515a.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
